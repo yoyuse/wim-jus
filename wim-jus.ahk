@@ -140,7 +140,7 @@ IniFile := % A_Linefile . "\..\wim-jus.ini"
 Section := "wim-jus"
 
 strWimVersion := "Wim JUS Version " . WimVersion
-WimURL := "https://github.com/yoyuse/"
+WimURL := "https://github.com/yoyuse/wim-jus"
 
 EnableDateStamp := 1
 strEnableDateStamp := "Date Stamp"
